@@ -4,7 +4,7 @@ account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
-kv_namespaces = [
-    { binding = "MEMORY_NOTE", id = "", preview_id = "" }
-]
+#kv_namespaces = [
+#    { binding = "MEMORY_NOTE", id = "", preview_id = "" }
+#]
 compatibility_date = "2021-09-26"
